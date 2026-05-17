@@ -11,3 +11,7 @@ This repository contains my professional certifications and internship completio
 * **Course:** Python for Data Science
 * **Platform:** NPTEL / Swayam
 * **File:** [View Certificate](./NPTEL_CERTIFICATE.pdf)
+
+## 3. Soft Skills Certification
+* **Course:** Professional Communication & Soft Skills
+* **File:** [View Certificate](./PYTHON&SOFT_SKILL.pdf)
